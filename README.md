@@ -1,1 +1,2 @@
-# Dockerizing-a-Node.js-and-Express.js-APP
+# Nginx-buffering
+Sample nginx setup proxying a express application.
